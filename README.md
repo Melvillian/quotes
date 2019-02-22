@@ -10,3 +10,4 @@ shuf /path/to/quotefile/ -n1 | cowsay
 * The Art of Worldy Wisdom - Baltasar Gracian
 * Meditations - Marcus Aurelius
 * Michel de Montaigne
+* David Wheeler
