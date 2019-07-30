@@ -11,3 +11,4 @@ shuf /path/to/quotefile/ -n1 | cowsay
 * Meditations - Marcus Aurelius
 * Michel de Montaigne
 * David Wheeler
+* Richard Feynman (https://fermatslibrary.com/s/the-value-of-science#email-newsletter)
