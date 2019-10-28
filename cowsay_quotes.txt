@@ -1,9 +1,5 @@
 Mix a little mystery with everything, and the very mystery arouses veneration. And when you explain, be not too explicit, just as you do not expose your inmost thoughts in ordinary intercourse. Cautious silence is the holy of holies of worldly wisdom. A resolution declared is never highly thought of; it only leaves room for criticism.
-The wise man would rather see men needing him than thanking him. To keep them on the threshold of hope is diplomatic, to trust to their gratitude boorish; hope has a good memory, gratitude a bad one.
 Sensible persons thus enjoy alternating pleasures: they reap applause for what they say, and gain instruction from what they hear. We are always attracted to others by our own interest, but in this case it is of a higher kind.
-Mediocrity obtains more with application than superiority without it. Work is the price which is paid for reputation. What costs little is little worth.
-The real can never equal the imagined, for it is easy to form ideals but very difficult to realise them.
-There are likewise patches on our reputation which ill-will soon finds out and is continually noticing. The highest skill is to transform them into ornament. (If you can’t hide it, flaunt it)
 To be occupied in what does not concern you is worse than doing nothing.
 Know your strongest point, your pre-eminent gift; cultivate that and you will assist the rest. Every one would have excelled in something if he had known his strong point.
 First be master over yourself if you would be master over others. You must pass through the circumference of time before arriving at the centre of opportunity.
@@ -14,7 +10,6 @@ There are exemplars of greatness, living texts of honour. Let every one have bef
 Try therefore to be born again in valour, in genius, in fortune, in all. Display startling novelties, rise afresh like the sun every day.
 Be extraordinary in your excellence, if you like, but be ordinary in your display of it. The more light a torch gives, the more it burns away and the nearer ‘tis to going out. Show yourself less and you will be rewarded by being esteemed more.
 It is far easier to prevent than to rectify.
-Man is born a barbarian, and only raises himself above the beast by culture.
 You cannot master yourself unless you know yourself. There are mirrors for the face but none for the mind.
 Do not rest your whole fortune on a single cast of the die. It requires great skill to moderate your forces so as to keep expectation from being dissipated.
 You should aim to be independent of any one vote, of any one fashion, of any one century.
@@ -25,22 +20,18 @@ Think more highly of what fate has given you than of what it has denied.
 It is preposterous to take to heart that which you should throw over your shoulders.
 To complain always brings discredit. Better be a model of self-reliance opposed to the passion of others than an object of their compassion.
 Post Yourself in the Centre of Things. So you feel the pulse of affairs. Many lose their way either in the ramifications of useless discussion or in the brushwood of wearisome verbosity without ever realising the real matter at issue.
-Remedies often make diseases worse: in such cases one has to leave them to their natural course and the moral suasion of time.
 A fountain gets muddy with but little stirring up, and does not get clear by our meddling with it but by our leaving it alone. The best remedy for disturbances is to let them run their course, for so they quiet down.
-But many have such a scent that amid a thousand excellences they fix upon a single defect, and single it out for blame as if they were scavengers of men’s minds and hearts.
 A friend must be free to advise, and even to upbraid, without feeling embarrassed.
 All rush after the unusual, which is more appetising both for the taste and for the intelligence.
 We must not put off thought till we are up to the chin in mire. Mature reflection can get over the most formidable difficulty. The pillow is a silent Sibyl, and it is better to sleep on things beforehand than lie awake about them afterwards.
 When you are on the way to fortune associate with the eminent; when arrived, with the mediocre.
 Maturity of mind is best shown in slow belief.
-To keep control of passion one must hold firm the reins of attention: he who can do so will be the first man wise on horseback, and probably the last.
 Yet a man is judged by his friends, for there was never agreement between wise men and fools.
 Many finish their fortune sooner than their life: they run through pleasures without enjoying them, and would like to go back when they find they have over-leaped the mark.
 Be slow in enjoyment, quick at work, for men see work ended with pleasure, pleasure ended with regret.
 There is none who cannot teach somebody something, and there is none so excellent but he is excelled.
 Leave Something to wish for, so as not to be miserable from very happiness.
 Though all the world is full of fools, there is none that thinks himself one, or even suspects the fact.
-Attempt easy Tasks as if they were difficult, and difficult as if they were easy.
 It is a fixed rule with the wise never to defend themselves with the pen. For such defence always leaves a stain, and does more to glorify one’s opponent than to punish his offence.
 A moment of wrath or of pleasure carries you on farther than many hours of calm, and often a short diversion may put a whole life to shame.
 Much thought is needed to prevent a passion taking the bit in the teeth, and he is doubly wise who is wise on horseback.
@@ -49,10 +40,8 @@ Many things cause pain which would cause pleasure if you regarded their advantag
 Know your chief Fault.
 Do not be witty at the cost of others: it is easy but hateful. All men have their revenge on such an one by speaking ill of him, and as they are many and he but one, he is more likely to be overcome than they convinced.
 Others desire to charm by their conversation, and only succeed in boring by their loquacity.
-Many break the mirror that reminds them of their ugliness.
 Some put all their strength in the commencement and never carry a thing to a conclusion. They invent but never execute. These be paltering spirits. They obtain no fame, for they sustain no game to the end. Everything stops at a single stop.
 Nothing really belongs to us but time, which even he has who has nothing else.
-Others wish to triumph before they have fought. Others again begin with learning things of little consequence and leave studies that would bring them fame and gain to the end of life.
 Many have proved themselves able at once when they had to deal with a difficulty, just as fear of drowning makes a swimmer of a man.
 The Wise do at once what the Fool does at last.
 If you cannot find the good in a thing, hide your incapacity and do not damn it straightway. As a general rule bad taste springs from want of knowledge.
@@ -62,4 +51,48 @@ Respect yourself if you would have others respect you.
 There is great caution needed in helping the drowning without danger to oneself.
 The most certain sign of wisdom is cheerfulness.
 All problems in computer science can be solved with one layer of indirection
-To every manis given the key to the gates of heaven, the same key opens the gates of hell
+To every man is given the key to the gates of heaven, the same key opens the gates of hell
+Our inward power, when it obeys nature, reacts to events by accommodating itself to what it faces - to what is possible. It needs no specific material. It pursues its own aims as circumstances allow; it turns obstacles into fuel. As a fire overwhelms what would have quenched a lamp. What's thrown on top of the conflagration is absorbed, consumed by it - makes it burn still brighter.
+When people injure you, ask yourself what good or harm they thought would come of it. If you understand that, you’ll feel sympathy rather than outrage or anger.
+Discard your thirst for books, so that you won't die in bitterness, but in cheerfulness and truth, grateful to the gods from the bottom of your heart
+Practice really hearing what people say. Do your best to get inside their minds.
+When you wake up in the morning, tell yourself: The people I deal with today will be meddling, ungrateful, arrogant, dishonest, jealous and surly. They are like this because they can't tell good from evil.
+treat human beings as they deserve, be tolerant with others and strict with yourself. Remember, nothing belongs to you but your flesh and blood - nothing else is under your control.
+If met with force, then fall back on acceptance and peaceability. Use the setback to practice other virtues.
+e need to master the art of acquiescence. We need to pay attention to our impulses, making sure they don’t go unmoderated, that they benefit others, that they’re worthy of us. We need to steer clear of desire in any form and not try to avoid what's beyond our control
+Or is it yours reputation that's bothering you? But look at how soon we're all forgotten. The abyss of endless time that swallows us all. The empitness of all those appluading hands. The people who praise us - how capricious they are, how arbitrary. And the tiny region in which it all takes place.
+Remember: Matter. how tiny your share of it. Time. how brief and fleeting your allotment of it. Fate. How small a role you play in it.
+Pride is the master of deception: when you think you're occupied in the weightiest business, that's when he has you in his spell
+An audience clapping? No. No more than the clacking of their tongues. Which is all that public praise amounts to— a clacking of tongues. So we throw out other people’s recognition. What’s left for us to prize? I think it’s this: to do (and not do) what we were designed for. That’s the goal of all trades, all arts, and what each of them aims at: that the thing they create should do what it was designed to do. The nurseryman who cares for the vines, the horse trainer, the dog breeder— this is what they aim at. And teaching and education— what else are they trying to accomplish?
+It never ceases to amaze me: we all love ourselves more than other people, but care more about their opinion than our own
+To be free of passion and yet full of love
+Give yourself a gift: the present moment
+To follow the logos in all things is to be relaxed and energetic, joyful and serious at once
+Choose not to be harmed - and you won't feel harmed. Don't feel harmed - and you haven't been
+The impediment to action advances action. What stands in the way becomes the way
+Like seeing roasted meat and other dishes in front of you and suddenly realizing: This is a dead fish. A dead bird. A dead pig. Or that this noble vintage is grape juice, and the purple robes are sheep wool dyed with shellfish blood. Or making love— something rubbing against your penis, a brief seizure and a little cloudy liquid. Perceptions like that— latching onto things and piercing through them, so we see what they really are. That’s what we need to do all the time— all through our lives when things lay claim to our trust— to lay them bare and see how pointless they are, to strip away the legend that encrusts them
+If we limited “good” and “bad” to our own actions, we’d have no call to challenge God, or to treat other people as enemies
+Let it happen, if it wants, to whatever it can happen to. And what’s affected can complain about it if it wants. It doesn’t hurt me unless I interpret its happening as harmful to me. I can choose not to
+Nothing has meaning to my mind except its own actions. Which are within its own control. And it’s only the immediate ones that matter. Its past and future actions too are meaningless
+Look at the past— empire succeeding empire— and from that, extrapolate the future: the same thing. No escape from the rhythm of events. Which is why observing life for forty years is as good as a thousand. Would you really see anything new?
+Constant awareness that everything is born from change. The knowledge that there is nothing nature loves more than to alter what exists and make new things like it. All that exists is the seed of what will emerge from it. You think the only seeds are the ones that makes plants or children? Go deeper
+Human life. Duration: momentary. Nature: changeable. Perception: dim
+Nothing that benefits all things can be ugly or out of place. The end of life is not an evil— it doesn’t disgrace us. (Why should we be ashamed of an involuntary act that injures no one?). It’s a good thing— scheduled by the world, promoting it, promoted by it
+Either pain affects the body (which is the body’s problem) or it affects the soul. But the soul can choose not to be affected, preserving its own serenity, its own tranquillity. All our decisions, urges, desires, aversions lie within. No evil can touch them
+Your three components: body, breath, mind. Two are yours in trust; to the third alone you have clear title
+The things you think about determine the quality of your mind. Your soul takes on the color of your thoughts. Color it with a run of thoughts like these
+You can lead an untroubled life provided you can grow, can think and act systematically
+When you need encouragement, think of the qualities the people around you have: this one’s energy, that one’s modesty, another’s generosity, and so on. Nothing is as encouraging as when virtues are visibly embodied in the people around us, when we’re practically showered with them. It’s good to keep this in mind
+Alexander and Caesar and Pompey. Compared with Diogenes, Heraclitus, Socrates? The philosophers knew the what, the why, the how. Their minds were their own. The others? Nothing but anxiety and enslavement
+Just remember: you can endure anything your mind can make endurable, by treating it as in your interest to do so. In your interest, or in your nature
+At festivals the Spartans put their guests’ seats in the shade, but sat themselves down anywhere
+At dawn, when you have trouble getting out of bed, tell yourself. "I have to go to work - as a human being. What do I have to complain of, if I'm going to do what I was born for - the things I was brought ino the world to do? Or is this what I was created for? To huddle under the blankets and stay warm?" -- But it's nicer here... So you were born to feel "nice"? Instead of doing things and experiencing them? Don't you see the plants, the birds, the ants and spiders and bees going about their individual tasks, putting the world in order, as best they can? And you're not willing to do your job as a human being? Why aren't you running to do what your nature demands?
+Now, the main thing we were made for is to work with others
+So you have a brain as well. Good for you. Then use your logic to awaken his. Show him. Make him realize it. If he'll listen, then you'll have solved the problem. Without anger
+Blame no one. Set people straight, if you can. If not, just repair the damage. And suppose you can’t do that either. Then where does blaming people get you?
+Just as nature takes every obstacle, every impediment, and works around it— turns it to its purposes, incorporates it into itself— so, too, a rational being can turn each setback into raw material and use it to achieve its goal.
+If you seek tranquillity, do less. or (more accurately) do what's essential - what the logos of a social being requires, and in the requisite way. Which brings a double satisfaction: to do less, better. Because most of what we say and do is not essential. If you can eliminate it, you'll have more time, and more tranquillity. Ask yourself at every moment. "is this necessary?"
+That kindness is invincible, provided it’s sincere— not ironic or an act. What can even the most vicious person do if you keep treating him with kindness and gently set him straight— if you get the chance— correcting him cheerfully at the exact moment that he’s trying to do you harm. “No, no, my friend. That isn’t what we’re here for. It isn’t me who’s harmed by that. It’s you.
+When you start to lose your temper, remember: There’s nothing manly about rage. It’s courtesy and kindness that define a human being— and a man.
+
+
